@@ -4,6 +4,7 @@ node_modules
 
 # Enviroment Variables
 .env*
+!.env.example
 
 # *Strom IDE
 .idea/*
