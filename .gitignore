@@ -1,0 +1,12 @@
+# Builds and local packages
+build/*
+node_modules
+
+# Enviroment Variables
+.env*
+
+# *Strom IDE
+.idea/*
+
+# Visual Studio Code IDE
+.vscode/*
